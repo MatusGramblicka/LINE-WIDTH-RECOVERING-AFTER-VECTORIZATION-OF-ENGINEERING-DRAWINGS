@@ -1,0 +1,107 @@
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\image.jpg
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\sample.dxf
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\netDxf.dll
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\bin\Debug\netDxf.xml
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\Users\Matus\Desktop\New folder\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\image.jpg
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+C:\Users\Matus\Desktop\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\image.jpg
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\image.jpg
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\image.jpg
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+D:\Skola\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+D:\University\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+D:\University\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe.config
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\image.jpg
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+C:\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe.config
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\image.jpg
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+C:\Users\Skuska\Desktop\MTF\Vekt ap na testovanie\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+E:\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe.config
+E:\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+E:\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+E:\netDxf\TestDxfDocument\bin\Debug\image.jpg
+E:\netDxf\TestDxfDocument\bin\Debug\sample.dxf
+E:\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+E:\netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+E:\netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+E:\netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+E:\netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+E:\netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe.config
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\image.jpg
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\sample.dxf
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\netDxf.dll
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\Users\Skuska\Desktop\QUALITY IMPROVEMENTS OF VECTORIZED ENGENEERING DRAWINGS netDxf\TestDxfDocument\bin\Debug\netDxf.xml
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\TestDxfDocument.exe.config
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\obj\Debug\TestDxfDocument.exe
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\obj\Debug\TestDxfDocument.pdb
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\image.jpg
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\sample.dxf
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\TestDxfDocument.exe
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\TestDxfDocument.pdb
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\netDxf.dll
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\netDxf.pdb
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\bin\Debug\netDxf.xml
+C:\Users\Skuska\Desktop\netDxf 5.8.16 novšia verzia\TestDxfDocument\obj\Debug\TestDxfDocument.csprojResolveAssemblyReference.cache
