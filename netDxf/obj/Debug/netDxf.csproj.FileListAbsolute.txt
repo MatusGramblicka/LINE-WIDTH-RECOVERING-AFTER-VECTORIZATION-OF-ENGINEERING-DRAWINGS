@@ -1,0 +1,30 @@
+C:\Users\Matus\Desktop\New folder\netDxf\bin\Debug\netDxf.xml
+C:\Users\Matus\Desktop\New folder\netDxf\bin\Debug\netDxf.dll
+C:\Users\Matus\Desktop\New folder\netDxf\bin\Debug\netDxf.pdb
+C:\Users\Matus\Desktop\New folder\netDxf\obj\Debug\netDxf.csprojResolveAssemblyReference.cache
+C:\Users\Matus\Desktop\New folder\netDxf\obj\Debug\netDxf.dll
+C:\Users\Matus\Desktop\New folder\netDxf\obj\Debug\netDxf.pdb
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\bin\Debug\netDxf.xml
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\bin\Debug\netDxf.dll
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\bin\Debug\netDxf.pdb
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\obj\Debug\netDxf.csprojResolveAssemblyReference.cache
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\obj\Debug\netDxf.dll
+D:\Slayer\Skola\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\obj\Debug\netDxf.pdb
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\bin\Debug\netDxf.xml
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\bin\Debug\netDxf.dll
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\bin\Debug\netDxf.pdb
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\obj\Debug\netDxf.csprojResolveAssemblyReference.cache
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\obj\Debug\netDxf.dll
+D:\Skola\Vektorizácia\Leto 2014 na dizp programy\Tracing zaciatok leta 2014, mozno pomoze\netDxf\netDxf\obj\Debug\netDxf.pdb
+C:\MTF\Vekt ap na testovanie\netDxf\netDxf\bin\Debug\netDxf.xml
+C:\MTF\Vekt ap na testovanie\netDxf\netDxf\bin\Debug\netDxf.dll
+C:\MTF\Vekt ap na testovanie\netDxf\netDxf\bin\Debug\netDxf.pdb
+C:\MTF\Vekt ap na testovanie\netDxf\netDxf\obj\Debug\netDxf.csprojResolveAssemblyReference.cache
+C:\MTF\Vekt ap na testovanie\netDxf\netDxf\obj\Debug\netDxf.dll
+C:\MTF\Vekt ap na testovanie\netDxf\netDxf\obj\Debug\netDxf.pdb
+E:\netDxf\netDxf\bin\Debug\netDxf.xml
+E:\netDxf\netDxf\bin\Debug\netDxf.dll
+E:\netDxf\netDxf\bin\Debug\netDxf.pdb
+E:\netDxf\netDxf\obj\Debug\netDxf.csprojResolveAssemblyReference.cache
+E:\netDxf\netDxf\obj\Debug\netDxf.dll
+E:\netDxf\netDxf\obj\Debug\netDxf.pdb
